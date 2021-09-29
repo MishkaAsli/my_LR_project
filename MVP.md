@@ -18,3 +18,5 @@ Cross validate on train data (80% of total dataframe) via ridge regression and L
 
 
 <img width="753" alt="Screen Shot 2021-09-28 at 5 09 28 PM" src="https://user-images.githubusercontent.com/77215072/135182172-cb2821a1-a5a8-4252-8e37-79873a1b946a.png">
+
+
