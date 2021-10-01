@@ -1,1 +1,2 @@
 # my_LR_project
+Abstract: The goal of this project was to use webscraping and different types of regression modeling to predict the gross pay for domestic box office movies. I worked with data from boxofficemojo.com and leveraged both numerical and categorical features including budget, running time, and distributors to predict the target. This analysis will be useful to potential film investors and aid them in investing in movies with the potential for the highest domestic gross pay.
